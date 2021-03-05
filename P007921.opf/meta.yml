@@ -1,16 +1,17 @@
-id: opecha:P007921
+id: P007921
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W29046
   title: བརྒལ་ལན་ཀུན་ཁྱབ་འབྲུག་སྒྲ་༔་གདོང་ཐོག་སྤྲུལ་སྐུ་ལ་གདམས་པ་བརྒལ་ལན་ཀུན་ཁྱབ་སྙན་པའི་འབྲུག་སྒྲ
-  volume:
+  author: ''
+  volumes:
     a4bef955432247c4b690659162da6f72:
       image_group_id: I00EGS1017298
       title: 'Volume 1 of brgal lan kun khyab ''brug sgra : gdong thog sprul sku la
         gdams pa brgal lan kun khyab snyan pa''i ''brug sgra'
       volume_number: 1
       total_pages: 242
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བརྒལ་ལན་ཀུན་ཁྱབ་འབྲུག་སྒྲ་༔་གདོང་ཐོག་སྤྲུལ་སྐུ་ལ་གདམས་པ་བརྒལ་ལན་ཀུན་ཁྱབ་སྙན་པའི་འབྲུག་སྒྲ
   author: ''
